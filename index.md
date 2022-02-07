@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Landing page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium aliquet purus, eu euismod odio placerat eget. Duis sagittis pharetra risus, porta fermentum dui maximus id. Fusce ultrices urna at massa condimentum cursus. Phasellus at molestie diam. Maecenas lacinia elementum nisl, ac dignissim enim dictum eu. Pellentesque convallis pharetra arcu, et blandit ipsum porttitor sed. Maecenas et risus mattis, tristique velit ac, commodo magna. Phasellus sit amet aliquam mi, vitae scelerisque dolor. Aenean ultricies pretium sem a convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc id congue turpis. Nunc lacinia consectetur pulvinar. Phasellus dapibus magna nunc, fermentum euismod est fermentum sed. Quisque volutpat massa rhoncus neque dictum venenatis.
+
+Sed venenatis sodales elit, quis imperdiet lorem pretium at. Aliquam ultricies scelerisque magna, a volutpat lorem gravida vitae. Nunc ornare pulvinar urna, et laoreet sem dapibus vitae. Nullam cursus libero non ligula dignissim, sed vestibulum quam interdum. Nulla condimentum diam at augue aliquam, eget venenatis justo pulvinar. Sed mollis nisl sit amet nulla gravida, a ullamcorper eros lobortis. Quisque dolor risus, euismod at suscipit faucibus, ultricies posuere nisl. Nunc at lacinia odio, non congue erat. In ut ornare purus. Vestibulum pharetra, ex at vestibulum egestas, purus nunc ultricies nunc, at ultricies mauris mi vitae ligula. Nullam pellentesque elementum nulla, eu malesuada nisi. Nam diam nulla, blandit eget lectus eget, posuere posuere nunc. Proin hendrerit, magna ultricies posuere cursus, urna lorem malesuada dui, sit amet semper erat purus sed mauris. Donec faucibus ultrices arcu eget tempus.
